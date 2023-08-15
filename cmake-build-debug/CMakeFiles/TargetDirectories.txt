@@ -1,0 +1,3 @@
+C:/Users/igorc/OneDrive/Documentos/C++/fundamentals_and_practice/pointers/cmake-build-debug/CMakeFiles/pointers.dir
+C:/Users/igorc/OneDrive/Documentos/C++/fundamentals_and_practice/pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/igorc/OneDrive/Documentos/C++/fundamentals_and_practice/pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
